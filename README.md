@@ -1,6 +1,7 @@
 # Codex Discord Bot
 
    A discord bot for quick accessing various stuff in our discord channel
+   [Invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=768807071314608159&permissions=8&scope=bot)
 
 ## MAINTAINERS
    - [Jaideep](https://github.com/Jaideep-C)
